@@ -1,0 +1,300 @@
+{"id": "e000", "question": "Could someone confirm how often bank transactions refresh this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e001", "question": "Remind me about payroll runs per month for a new account.", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "de"}
+{"id": "e002", "question": "Quick question: what's the number of banks that sync for a freelancer?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e003", "question": "Could someone confirm how often bank transactions refresh for a new account?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "de"}
+{"id": "e004", "question": "Can you tell me the idle session timeout for my shop?", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "en"}
+{"id": "e005", "question": "Remind me about the number of employees payroll supports for a new account.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e006", "question": "What's the current figure for the number of tax regions supported this year?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "de"}
+{"id": "e007", "question": "Could someone confirm how often bank transactions refresh?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e008", "question": "Has anything changed about the discount for paying annually?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e009", "question": "Remind me about the quarterly filing deadline reminder for my bakery.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e010", "question": "How much is the free trial for my agency?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e011", "question": "Could someone confirm the number of employees payroll supports this year?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "de"}
+{"id": "e012", "question": "Can you tell me the free trial for my agency?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e013", "question": "Where can I check automatic payment reminders for my agency?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e014", "question": "Do you know the quarterly filing deadline reminder in LedgerLite for my shop?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e015", "question": "How much is the quarterly filing deadline reminder?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e016", "question": "Can you tell me the quarterly filing deadline reminder for a freelancer?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e017", "question": "Help me understand the number of banks that sync for my agency.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "es"}
+{"id": "e018", "question": "I need to know the quarterly filing deadline reminder for our team.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e019", "question": "What's the current figure for how often bank transactions refresh this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e020", "question": "Where can I check the quarterly filing deadline reminder for my bakery?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e021", "question": "I need to know payroll runs per month.", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e022", "question": "Remind me about the number of tax regions supported for a freelancer.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e023", "question": "How much is the number of invoices on the Starter plan for our team?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "en"}
+{"id": "e024", "question": "Could someone confirm the free trial for a new account?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "es"}
+{"id": "e025", "question": "I need to know the number of tax regions supported for a new account.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e026", "question": "Remind me about the number of banks that sync for my bakery.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e027", "question": "How much is the Starter plan cost per month for my bakery?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e028", "question": "What is the number of employees payroll supports for my agency?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "de"}
+{"id": "e029", "question": "Can you tell me the number of employees payroll supports for our team?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "es"}
+{"id": "e030", "question": "How much is the discount for paying annually?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e031", "question": "Help me understand the number of employees payroll supports for a nonprofit.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e032", "question": "What's the current figure for the discount for paying annually for a new account?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "de"}
+{"id": "e033", "question": "What is the free trial for a freelancer?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e034", "question": "Can you tell me how often bank transactions refresh for a new account?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e035", "question": "What's the current figure for how long deleted data is kept for a nonprofit?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "en"}
+{"id": "e036", "question": "Has anything changed about how long deleted data is kept for my shop?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "de"}
+{"id": "e037", "question": "Help me understand payroll runs per month.", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e038", "question": "What's the current figure for the number of invoices on the Starter plan for my shop?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "es"}
+{"id": "e039", "question": "Has anything changed about the quarterly filing deadline reminder for a new account?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e040", "question": "Do you know the discount for paying annually in LedgerLite for my bakery?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e041", "question": "How much is the Starter plan cost per month for our team?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e042", "question": "Has anything changed about the number of invoice currencies supported for a new account?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e043", "question": "Help me understand the number of banks that sync for a new account.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e044", "question": "Can you tell me the number of employees payroll supports on the mobile app?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e045", "question": "What's the current figure for the quarterly filing deadline reminder for my agency?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e046", "question": "What's the current figure for the number of tax regions supported for my shop?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "de"}
+{"id": "e047", "question": "Do you know the number of invoice currencies supported in LedgerLite for our team?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e048", "question": "How much is the number of employees payroll supports?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "es"}
+{"id": "e049", "question": "Has anything changed about the number of tax regions supported for my agency?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "de"}
+{"id": "e050", "question": "Has anything changed about the number of tax regions supported for our team?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e051", "question": "How much is how often bank transactions refresh for my bakery?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e052", "question": "What is payroll runs per month on the mobile app?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e053", "question": "How much is the two-factor methods offered for my agency?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "de"}
+{"id": "e054", "question": "How much is how often bank transactions refresh on the mobile app?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e055", "question": "Has anything changed about the number of banks that sync on the mobile app?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e056", "question": "What is the quarterly filing deadline reminder for a new account?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "de"}
+{"id": "e057", "question": "Remind me about the quarterly filing deadline reminder for my agency.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "es"}
+{"id": "e058", "question": "What is the discount for paying annually for a freelancer?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e059", "question": "Remind me about the discount for paying annually for my bakery.", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e060", "question": "Quick question: what's automatic payment reminders for a freelancer?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e061", "question": "Do you know the free trial in LedgerLite for my agency?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e062", "question": "I need to know the Starter plan cost per month.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e063", "question": "Quick question: what's automatic payment reminders for a nonprofit?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "es"}
+{"id": "e064", "question": "Can you tell me how often bank transactions refresh for my agency?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e065", "question": "Remind me about the idle session timeout for my bakery.", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "en"}
+{"id": "e066", "question": "Quick question: what's payroll runs per month for my shop?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e067", "question": "Has anything changed about the number of tax regions supported for a new account?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "de"}
+{"id": "e068", "question": "Can you tell me the number of tax regions supported for a nonprofit?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e069", "question": "What's the current figure for the quarterly filing deadline reminder for a new account?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e070", "question": "Remind me about the number of tax regions supported for our team.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e071", "question": "How much is the idle session timeout for a nonprofit?", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "en"}
+{"id": "e072", "question": "Help me understand the Starter plan cost per month.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e073", "question": "I need to know the idle session timeout for my bakery.", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "es"}
+{"id": "e074", "question": "What is payroll runs per month for our team?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e075", "question": "Do you know the number of tax regions supported in LedgerLite for my shop?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e076", "question": "Where can I check the number of employees payroll supports this year?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e077", "question": "Do you know the discount for paying annually in LedgerLite for my agency?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e078", "question": "What's the current figure for payroll runs per month for our team?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e079", "question": "Help me understand the number of employees payroll supports for my shop.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e080", "question": "Quick question: what's the number of banks that sync for a new account?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e081", "question": "Help me understand how often bank transactions refresh this year.", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e082", "question": "What is the Starter plan cost per month for my bakery?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e083", "question": "What's the current figure for the number of banks that sync for my shop?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "de"}
+{"id": "e084", "question": "Has anything changed about the number of employees payroll supports for my agency?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e085", "question": "I need to know the number of banks that sync on the mobile app.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "es"}
+{"id": "e086", "question": "What's the current figure for payroll runs per month for a nonprofit?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e087", "question": "What is the number of tax regions supported?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "de"}
+{"id": "e088", "question": "Quick question: what's the quarterly filing deadline reminder for my shop?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e089", "question": "Quick question: what's the discount for paying annually for a nonprofit?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "de"}
+{"id": "e090", "question": "Has anything changed about payroll runs per month for a freelancer?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e091", "question": "What is automatic payment reminders?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "es"}
+{"id": "e092", "question": "Where can I check the number of employees payroll supports for my bakery?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e093", "question": "Remind me about the number of tax regions supported for a nonprofit.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e094", "question": "What is the discount for paying annually for my bakery?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e095", "question": "Where can I check the number of employees payroll supports for a new account?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e096", "question": "Could someone confirm the discount for paying annually for my shop?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e097", "question": "What is the discount for paying annually for a new account?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e098", "question": "Do you know the number of invoices on the Starter plan in LedgerLite on the mobile app?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "de"}
+{"id": "e099", "question": "Can you tell me how long deleted data is kept for my agency?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "de"}
+{"id": "e100", "question": "Do you know the number of banks that sync in LedgerLite this year?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e101", "question": "Has anything changed about the number of employees payroll supports for my bakery?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e102", "question": "What is the two-factor methods offered for my agency?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e103", "question": "Can you tell me payroll runs per month for a nonprofit?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "de"}
+{"id": "e104", "question": "Help me understand the discount for paying annually.", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e105", "question": "What is how often bank transactions refresh this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e106", "question": "Remind me about the discount for paying annually for my shop.", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e107", "question": "Can you tell me the Starter plan cost per month for a new account?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e108", "question": "Has anything changed about the number of banks that sync for my bakery?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e109", "question": "Can you tell me the number of invoices on the Starter plan this year?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "en"}
+{"id": "e110", "question": "I need to know the number of invoice currencies supported for my shop.", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e111", "question": "Could someone confirm the number of invoice currencies supported for my shop?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e112", "question": "Where can I check the Starter plan cost per month on the mobile app?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e113", "question": "I need to know the Starter plan cost per month for my shop.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "de"}
+{"id": "e114", "question": "Quick question: what's the number of employees payroll supports for my shop?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "es"}
+{"id": "e115", "question": "Where can I check the number of employees payroll supports?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "de"}
+{"id": "e116", "question": "Quick question: what's the number of employees payroll supports for my agency?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e117", "question": "Has anything changed about the discount for paying annually for my agency?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e118", "question": "Help me understand the discount for paying annually for my shop.", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e119", "question": "What's the current figure for payroll runs per month for my bakery?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e120", "question": "Could someone confirm the two-factor methods offered for a new account?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e121", "question": "How much is the quarterly filing deadline reminder for a nonprofit?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "de"}
+{"id": "e122", "question": "Remind me about the number of employees payroll supports for my agency.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "de"}
+{"id": "e123", "question": "Can you tell me the discount for paying annually this year?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e124", "question": "Can you tell me the number of tax regions supported on the mobile app?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e125", "question": "What's the current figure for the number of employees payroll supports for my bakery?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e126", "question": "Do you know the number of tax regions supported in LedgerLite on the mobile app?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e127", "question": "Has anything changed about the number of tax regions supported?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e128", "question": "Where can I check the discount for paying annually for a nonprofit?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e129", "question": "Has anything changed about payroll runs per month for our team?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e130", "question": "Quick question: what's the number of tax regions supported on the mobile app?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e131", "question": "I need to know the number of employees payroll supports for a freelancer.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e132", "question": "How much is the discount for paying annually for a new account?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e133", "question": "Do you know the number of employees payroll supports in LedgerLite for my agency?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e134", "question": "Has anything changed about payroll runs per month on the mobile app?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e135", "question": "I need to know payroll runs per month this year.", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e136", "question": "What is payroll runs per month this year?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e137", "question": "Where can I check automatic payment reminders for our team?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e138", "question": "What is the discount for paying annually for my agency?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e139", "question": "Has anything changed about how long deleted data is kept for a nonprofit?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "de"}
+{"id": "e140", "question": "What is the Starter plan cost per month on the mobile app?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e141", "question": "I need to know how often bank transactions refresh for a freelancer.", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e142", "question": "Do you know how often bank transactions refresh in LedgerLite this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e143", "question": "Do you know the quarterly filing deadline reminder in LedgerLite for a nonprofit?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e144", "question": "Remind me about the free trial for a freelancer.", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e145", "question": "Do you know the number of invoices on the Starter plan in LedgerLite for a nonprofit?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "en"}
+{"id": "e146", "question": "I need to know how often bank transactions refresh this year.", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e147", "question": "Do you know how long deleted data is kept in LedgerLite?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "es"}
+{"id": "e148", "question": "Remind me about the number of invoices on the Starter plan.", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "de"}
+{"id": "e149", "question": "Quick question: what's the number of tax regions supported for a new account?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e150", "question": "Remind me about the free trial for a nonprofit.", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "es"}
+{"id": "e151", "question": "What's the current figure for payroll runs per month on the mobile app?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e152", "question": "Remind me about the number of tax regions supported for a new account.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e153", "question": "Remind me about the Starter plan cost per month for my agency.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e154", "question": "Could someone confirm payroll runs per month?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e155", "question": "Could someone confirm the Starter plan cost per month for my shop?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e156", "question": "Help me understand the Starter plan cost per month on the mobile app.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e157", "question": "Remind me about the number of invoice currencies supported for our team.", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e158", "question": "What's the current figure for the free trial this year?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e159", "question": "Do you know the number of tax regions supported in LedgerLite this year?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "de"}
+{"id": "e160", "question": "I need to know the number of employees payroll supports for my bakery.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e161", "question": "I need to know the number of banks that sync this year.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e162", "question": "Do you know the quarterly filing deadline reminder in LedgerLite?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e163", "question": "How much is the two-factor methods offered on the mobile app?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e164", "question": "Can you tell me the idle session timeout for my agency?", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "de"}
+{"id": "e165", "question": "What's the current figure for the number of banks that sync for my agency?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "es"}
+{"id": "e166", "question": "What is the quarterly filing deadline reminder for my bakery?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e167", "question": "Do you know the number of tax regions supported in LedgerLite for our team?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e168", "question": "What is automatic payment reminders for my agency?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "de"}
+{"id": "e169", "question": "Has anything changed about the number of employees payroll supports on the mobile app?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e170", "question": "I need to know the free trial for my agency.", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e171", "question": "I need to know the number of tax regions supported for my bakery.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e172", "question": "Has anything changed about payroll runs per month this year?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e173", "question": "What is the number of invoices on the Starter plan for my agency?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "en"}
+{"id": "e174", "question": "What is payroll runs per month for a freelancer?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e175", "question": "Could someone confirm the number of banks that sync for my bakery?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "de"}
+{"id": "e176", "question": "What's the current figure for the Starter plan cost per month for a new account?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e177", "question": "How much is the number of banks that sync for our team?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e178", "question": "How much is how often bank transactions refresh this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e179", "question": "What is the quarterly filing deadline reminder for our team?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e180", "question": "Where can I check the number of employees payroll supports for a nonprofit?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e181", "question": "Has anything changed about the number of banks that sync for a freelancer?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e182", "question": "What is the number of invoice currencies supported for a freelancer?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e183", "question": "Remind me about the Starter plan cost per month for my bakery.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "de"}
+{"id": "e184", "question": "Do you know how often bank transactions refresh in LedgerLite for a freelancer?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "de"}
+{"id": "e185", "question": "How much is the number of banks that sync for my shop?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e186", "question": "Help me understand automatic payment reminders for a nonprofit.", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e187", "question": "Could someone confirm payroll runs per month for my agency?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "de"}
+{"id": "e188", "question": "Where can I check how often bank transactions refresh for my bakery?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e189", "question": "Could someone confirm payroll runs per month for a freelancer?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e190", "question": "I need to know the number of tax regions supported for a freelancer.", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e191", "question": "How much is the number of invoices on the Starter plan for my agency?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "de"}
+{"id": "e192", "question": "Where can I check the Starter plan cost per month for my bakery?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e193", "question": "Where can I check the quarterly filing deadline reminder for a new account?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "es"}
+{"id": "e194", "question": "Help me understand the discount for paying annually for a nonprofit.", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e195", "question": "Remind me about the Starter plan cost per month on the mobile app.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e196", "question": "Remind me about the quarterly filing deadline reminder for a freelancer.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e197", "question": "What's the current figure for the quarterly filing deadline reminder for a nonprofit?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e198", "question": "Could someone confirm the free trial this year?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "de"}
+{"id": "e199", "question": "Quick question: what's how long deleted data is kept?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "en"}
+{"id": "e200", "question": "What's the current figure for the number of employees payroll supports?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e201", "question": "Quick question: what's the free trial for a new account?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "de"}
+{"id": "e202", "question": "I need to know the quarterly filing deadline reminder for my agency.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "de"}
+{"id": "e203", "question": "Quick question: what's payroll runs per month for our team?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "de"}
+{"id": "e204", "question": "I need to know the discount for paying annually for a new account.", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e205", "question": "How much is the quarterly filing deadline reminder for my shop?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e206", "question": "What is the number of banks that sync for a new account?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e207", "question": "Has anything changed about the discount for paying annually on the mobile app?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "en"}
+{"id": "e208", "question": "How much is the number of invoice currencies supported?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "es"}
+{"id": "e209", "question": "Remind me about the number of banks that sync.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e210", "question": "Has anything changed about the idle session timeout on the mobile app?", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "de"}
+{"id": "e211", "question": "Can you tell me the two-factor methods offered for a freelancer?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e212", "question": "Quick question: what's the quarterly filing deadline reminder on the mobile app?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "es"}
+{"id": "e213", "question": "Help me understand the number of invoice currencies supported on the mobile app.", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "es"}
+{"id": "e214", "question": "Remind me about how long deleted data is kept for my shop.", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "en"}
+{"id": "e215", "question": "Where can I check the free trial for a nonprofit?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "es"}
+{"id": "e216", "question": "Do you know the number of employees payroll supports in LedgerLite for a new account?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e217", "question": "Remind me about the number of banks that sync for my agency.", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "de"}
+{"id": "e218", "question": "Has anything changed about the two-factor methods offered for my shop?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "es"}
+{"id": "e219", "question": "Help me understand the quarterly filing deadline reminder for our team.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e220", "question": "Do you know the number of tax regions supported in LedgerLite for my bakery?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e221", "question": "What's the current figure for the number of tax regions supported for my agency?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e222", "question": "How much is the number of banks that sync this year?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "de"}
+{"id": "e223", "question": "Quick question: what's the idle session timeout on the mobile app?", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "es"}
+{"id": "e224", "question": "Can you tell me payroll runs per month on the mobile app?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e225", "question": "I need to know the Starter plan cost per month for a nonprofit.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e226", "question": "What is payroll runs per month for a new account?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e227", "question": "Could someone confirm how often bank transactions refresh for a freelancer?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e228", "question": "Remind me about the free trial.", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "de"}
+{"id": "e229", "question": "How much is the Starter plan cost per month on the mobile app?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e230", "question": "Do you know the number of employees payroll supports in LedgerLite on the mobile app?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e231", "question": "How much is the number of employees payroll supports this year?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e232", "question": "Could someone confirm the number of tax regions supported?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e233", "question": "Remind me about how often bank transactions refresh for a new account.", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "de"}
+{"id": "e234", "question": "Quick question: what's the number of banks that sync for our team?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e235", "question": "Quick question: what's how often bank transactions refresh on the mobile app?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e236", "question": "How much is payroll runs per month this year?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "de"}
+{"id": "e237", "question": "How much is the number of tax regions supported for my agency?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e238", "question": "Can you tell me the discount for paying annually for our team?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e239", "question": "How much is the discount for paying annually this year?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "de"}
+{"id": "e240", "question": "Could someone confirm the number of banks that sync for my shop?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "en"}
+{"id": "e241", "question": "Where can I check the Starter plan cost per month for my shop?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e242", "question": "Could someone confirm the quarterly filing deadline reminder for my shop?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "es"}
+{"id": "e243", "question": "Remind me about how long deleted data is kept.", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "en"}
+{"id": "e244", "question": "Where can I check the Starter plan cost per month for our team?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e245", "question": "Quick question: what's the free trial for a nonprofit?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e246", "question": "Help me understand how long deleted data is kept for a freelancer.", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "es"}
+{"id": "e247", "question": "What's the current figure for the number of employees payroll supports for my shop?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e248", "question": "Where can I check the quarterly filing deadline reminder this year?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "es"}
+{"id": "e249", "question": "Quick question: what's the number of employees payroll supports for our team?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e250", "question": "Can you tell me the two-factor methods offered?", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e251", "question": "Help me understand the number of employees payroll supports.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e252", "question": "Help me understand automatic payment reminders this year.", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "es"}
+{"id": "e253", "question": "Can you tell me the free trial for my shop?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e254", "question": "What is the number of employees payroll supports for a freelancer?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e255", "question": "What is how long deleted data is kept?", "answer": "30 days", "fact": "data_retention", "topic": "security", "lang": "es"}
+{"id": "e256", "question": "Help me understand the number of employees payroll supports for a freelancer.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "de"}
+{"id": "e257", "question": "I need to know the Starter plan cost per month for a new account.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e258", "question": "Has anything changed about the number of invoices on the Starter plan for a nonprofit?", "answer": "50 per month", "fact": "invoice_limit", "topic": "invoices", "lang": "en"}
+{"id": "e259", "question": "Remind me about the Starter plan cost per month for a freelancer.", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "es"}
+{"id": "e260", "question": "Do you know the idle session timeout in LedgerLite this year?", "answer": "30 minutes", "fact": "session_timeout", "topic": "security", "lang": "en"}
+{"id": "e261", "question": "Help me understand the two-factor methods offered for a freelancer.", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "es"}
+{"id": "e262", "question": "Remind me about the two-factor methods offered for my agency.", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e263", "question": "Do you know the number of tax regions supported in LedgerLite?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e264", "question": "How much is payroll runs per month for my shop?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e265", "question": "Do you know payroll runs per month in LedgerLite for a new account?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e266", "question": "I need to know the number of employees payroll supports this year.", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "de"}
+{"id": "e267", "question": "What's the current figure for the number of employees payroll supports for our team?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "es"}
+{"id": "e268", "question": "Do you know automatic payment reminders in LedgerLite for my bakery?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e269", "question": "Do you know the number of employees payroll supports in LedgerLite?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e270", "question": "Can you tell me how often bank transactions refresh this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e271", "question": "What's the current figure for the number of tax regions supported for a nonprofit?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e272", "question": "Can you tell me the discount for paying annually for my shop?", "answer": "20 percent", "fact": "annual_discount", "topic": "billing", "lang": "es"}
+{"id": "e273", "question": "What's the current figure for automatic payment reminders for my agency?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e274", "question": "Has anything changed about the quarterly filing deadline reminder?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e275", "question": "Do you know the number of invoice currencies supported in LedgerLite on the mobile app?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e276", "question": "How much is the number of employees payroll supports for my bakery?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e277", "question": "Where can I check the number of tax regions supported for a nonprofit?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e278", "question": "Could someone confirm the number of employees payroll supports for my agency?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "es"}
+{"id": "e279", "question": "Where can I check payroll runs per month on the mobile app?", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "en"}
+{"id": "e280", "question": "Do you know the quarterly filing deadline reminder in LedgerLite on the mobile app?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "es"}
+{"id": "e281", "question": "Remind me about how often bank transactions refresh for my agency.", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "es"}
+{"id": "e282", "question": "Help me understand the quarterly filing deadline reminder for my agency.", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "de"}
+{"id": "e283", "question": "What's the current figure for the number of invoice currencies supported for my agency?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "en"}
+{"id": "e284", "question": "Can you tell me the number of invoice currencies supported for a freelancer?", "answer": "40 currencies", "fact": "invoice_currency", "topic": "invoices", "lang": "de"}
+{"id": "e285", "question": "Help me understand the free trial for my agency.", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "en"}
+{"id": "e286", "question": "Where can I check the free trial for a new account?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "es"}
+{"id": "e287", "question": "Help me understand the two-factor methods offered for a new account.", "answer": "authenticator apps and security keys", "fact": "mfa_methods", "topic": "security", "lang": "en"}
+{"id": "e288", "question": "Has anything changed about how often bank transactions refresh this year?", "answer": "every 4 hours", "fact": "bank_refresh", "topic": "bank-sync", "lang": "en"}
+{"id": "e289", "question": "I need to know payroll runs per month for a freelancer.", "answer": "unlimited runs", "fact": "payroll_runs", "topic": "payroll", "lang": "es"}
+{"id": "e290", "question": "Could someone confirm the number of tax regions supported for a freelancer?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "es"}
+{"id": "e291", "question": "Could someone confirm the free trial for a nonprofit?", "answer": "30 days", "fact": "trial_length", "topic": "billing", "lang": "es"}
+{"id": "e292", "question": "Has anything changed about the number of tax regions supported for a nonprofit?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}
+{"id": "e293", "question": "Do you know automatic payment reminders in LedgerLite for a freelancer?", "answer": "every 7 days", "fact": "invoice_reminders", "topic": "invoices", "lang": "en"}
+{"id": "e294", "question": "Can you tell me the number of banks that sync for a new account?", "answer": "over 9,000 banks", "fact": "bank_count", "topic": "bank-sync", "lang": "de"}
+{"id": "e295", "question": "How much is the quarterly filing deadline reminder for our team?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e296", "question": "Where can I check the number of employees payroll supports for a freelancer?", "answer": "up to 25 employees", "fact": "payroll_staff", "topic": "payroll", "lang": "en"}
+{"id": "e297", "question": "Can you tell me the quarterly filing deadline reminder on the mobile app?", "answer": "10 days before the deadline", "fact": "tax_filing", "topic": "tax", "lang": "en"}
+{"id": "e298", "question": "What is the Starter plan cost per month for a freelancer?", "answer": "12 dollars", "fact": "plan_price", "topic": "billing", "lang": "en"}
+{"id": "e299", "question": "Do you know the number of tax regions supported in LedgerLite for my agency?", "answer": "12 regions", "fact": "tax_regions", "topic": "tax", "lang": "en"}

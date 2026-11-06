@@ -1,0 +1,21 @@
+{"id": "d-plan_price", "fact": "plan_price", "topic": "billing", "date": "2026-09-01", "text": "LedgerLite: The Starter plan cost per month is 12 dollars."}
+{"id": "d-annual_discount", "fact": "annual_discount", "topic": "billing", "date": "2026-09-01", "text": "LedgerLite: The discount for paying annually is 20 percent."}
+{"id": "d-trial_length", "fact": "trial_length", "topic": "billing", "date": "2026-09-01", "text": "LedgerLite: The free trial is 30 days."}
+{"id": "d-invoice_limit", "fact": "invoice_limit", "topic": "invoices", "date": "2026-09-01", "text": "LedgerLite: The number of invoices on the Starter plan is 50 per month."}
+{"id": "d-invoice_currency", "fact": "invoice_currency", "topic": "invoices", "date": "2026-09-01", "text": "LedgerLite: The number of invoice currencies supported is 40 currencies."}
+{"id": "d-invoice_reminders", "fact": "invoice_reminders", "topic": "invoices", "date": "2026-09-01", "text": "LedgerLite: Automatic payment reminders is every 7 days."}
+{"id": "d-payroll_staff", "fact": "payroll_staff", "topic": "payroll", "date": "2026-09-01", "text": "LedgerLite: The number of employees payroll supports is up to 25 employees."}
+{"id": "d-payroll_runs", "fact": "payroll_runs", "topic": "payroll", "date": "2026-09-01", "text": "LedgerLite: Payroll runs per month is unlimited runs."}
+{"id": "d-tax_regions", "fact": "tax_regions", "topic": "tax", "date": "2026-09-01", "text": "LedgerLite: The number of tax regions supported is 12 regions."}
+{"id": "d-tax_filing", "fact": "tax_filing", "topic": "tax", "date": "2026-09-01", "text": "LedgerLite: The quarterly filing deadline reminder is 10 days before the deadline."}
+{"id": "d-bank_count", "fact": "bank_count", "topic": "bank-sync", "date": "2026-09-01", "text": "LedgerLite: The number of banks that sync is over 9,000 banks."}
+{"id": "d-bank_refresh", "fact": "bank_refresh", "topic": "bank-sync", "date": "2026-09-01", "text": "LedgerLite: How often bank transactions refresh is every 4 hours."}
+{"id": "d-mfa_methods", "fact": "mfa_methods", "topic": "security", "date": "2026-09-01", "text": "LedgerLite: The two-factor methods offered is authenticator apps and security keys."}
+{"id": "d-session_timeout", "fact": "session_timeout", "topic": "security", "date": "2026-09-01", "text": "LedgerLite: The idle session timeout is 30 minutes."}
+{"id": "d-data_retention", "fact": "data_retention", "topic": "security", "date": "2026-09-01", "text": "LedgerLite: How long deleted data is kept is 30 days."}
+{"id": "d-howto-billing", "fact": null, "topic": "billing", "date": "2026-08-15", "text": "How to get started with billing in LedgerLite: open Settings and choose billing."}
+{"id": "d-howto-invoices", "fact": null, "topic": "invoices", "date": "2026-08-15", "text": "How to get started with invoices in LedgerLite: open Settings and choose invoices."}
+{"id": "d-howto-payroll", "fact": null, "topic": "payroll", "date": "2026-08-15", "text": "How to get started with payroll in LedgerLite: open Settings and choose payroll."}
+{"id": "d-howto-tax", "fact": null, "topic": "tax", "date": "2026-08-15", "text": "How to get started with tax in LedgerLite: open Settings and choose tax."}
+{"id": "d-howto-bank-sync", "fact": null, "topic": "bank-sync", "date": "2026-08-15", "text": "How to get started with bank sync in LedgerLite: open Settings and choose bank-sync."}
+{"id": "d-howto-security", "fact": null, "topic": "security", "date": "2026-08-15", "text": "How to get started with security in LedgerLite: open Settings and choose security."}

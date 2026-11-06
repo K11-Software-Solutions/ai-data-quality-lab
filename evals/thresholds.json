@@ -1,0 +1,6 @@
+{
+  "_comment": "Every finding fails the gate. Coverage and representativeness have tolerances; the near-duplicate threshold is a word-trigram Jaccard similarity.",
+  "near_duplicate_threshold": 0.5,
+  "min_coverage": 0.95,
+  "max_psi": 0.1
+}

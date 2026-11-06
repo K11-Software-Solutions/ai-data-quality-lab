@@ -1,0 +1,24 @@
+{
+  "title": "AI Data Quality Lab",
+  "description": "Test the data behind an AI system like code: eval contamination, wrong reference labels, unrepresentative eval sets, stale and contradictory RAG documents, personal data, data contracts and versioning, each gated in CI. No API key needed.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Jadhav, Kavita",
+      "affiliation": "K11 Software Solutions"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "data-quality",
+    "ai-quality-engineering",
+    "llm-evaluation",
+    "data-contamination",
+    "label-noise",
+    "rag",
+    "pii-detection",
+    "data-contracts",
+    "dataset-versioning"
+  ],
+  "notes": "Code is licensed under MIT; the written material (articles/) is licensed under CC BY 4.0. LedgerLite and all data in the repository are fictional and synthetic."
+}
